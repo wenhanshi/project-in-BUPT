@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\input.o
+./debug\Graph.o
+./debug\simulation.o
+./debug\firstinput.o
+./debug\search.o
+./debug\qrc_testinput.o
+./debug\moc_mainwindow.o
+./debug\moc_input.o
+./debug\moc_newlabel.o
+./debug\moc_firstinput.o
+./debug\moc_search.o
+);

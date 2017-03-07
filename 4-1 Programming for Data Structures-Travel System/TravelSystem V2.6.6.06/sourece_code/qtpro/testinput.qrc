@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Text.txt</file>
+        <file>map.jpg</file>
+        <file>timetable.txt</file>
+        <file>dp.png</file>
+        <file>dp0.png</file>
+        <file>dp1.png</file>
+        <file>dp2.png</file>
+        <file>dp3.png</file>
+        <file>dp4.png</file>
+        <file>TIME_TABLE.txt</file>
+        <file>setup interface(poster).jpg</file>
+    </qresource>
+</RCC>

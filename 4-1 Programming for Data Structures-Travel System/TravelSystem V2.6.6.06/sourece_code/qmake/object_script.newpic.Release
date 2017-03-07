@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\input.o
+./release\Graph.o
+./release\simulation.o
+./release\firstinput.o
+./release\search.o
+./release\qrc_testinput.o
+./release\moc_mainwindow.o
+./release\moc_input.o
+./release\moc_newlabel.o
+./release\moc_firstinput.o
+./release\moc_search.o
+);

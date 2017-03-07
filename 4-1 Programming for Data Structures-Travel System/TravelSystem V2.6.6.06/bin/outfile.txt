@@ -1,0 +1,3020 @@
+---------TIME:1:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+--------- INPUT INSTRUCTION ---------
+INPUT MESSAGE:
+INPUT TIME IS: 1:00
+ID: 0:
+Destination:CHANGSHA
+Strategy: minicost 
+midcity: empty 
+---------TIME:2:00---------
+ID: 0:
+Destination:CHANGSHA
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 7
+State_now(for debug): citynow: BEIJING timenow: 1
+Strategy: minicost 
+midcity: empty 
+TimeResult: 49
+MoneyResult: 360
+Total edges: 2
+6->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:3:00---------
+ID: 0:
+Destination:CHANGSHA
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 7
+State_now(for debug): citynow: BEIJING timenow: 1
+Strategy: minicost 
+midcity: empty 
+TimeResult: 49
+MoneyResult: 360
+Total edges: 2
+6->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:4:00---------
+ID: 0:
+Destination:CHANGSHA
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 7
+State_now(for debug): citynow: BEIJING timenow: 1
+Strategy: minicost 
+midcity: empty 
+TimeResult: 49
+MoneyResult: 360
+Total edges: 2
+6->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+--------- INPUT INSTRUCTION ---------
+INPUT MESSAGE:
+INPUT TIME IS: 4:00
+ID: 0:
+Destination:KUNMING
+Strategy: minicost 
+midcity: empty 
+---------TIME:5:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 4
+State_now(for debug): citynow: BEIJING timenow: 4
+Strategy: minicost 
+midcity: empty 
+TimeResult: 83
+MoneyResult: 690
+Total edges: 3
+6->12->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:6:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 4
+State_now(for debug): citynow: BEIJING timenow: 4
+Strategy: minicost 
+midcity: empty 
+TimeResult: 83
+MoneyResult: 690
+Total edges: 3
+6->12->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:7:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 4
+State_now(for debug): citynow: BEIJING timenow: 4
+Strategy: minicost 
+midcity: empty 
+TimeResult: 83
+MoneyResult: 690
+Total edges: 3
+6->12->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:8:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: ZHENGZHOU ismove: 1 dur: 9
+State_now(for debug): citynow: BEIJING timenow: 4
+Strategy: minicost 
+midcity: empty 
+TimeResult: 83
+MoneyResult: 690
+Total edges: 3
+6->12->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:9:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: ZHENGZHOU ismove: 1 dur: 9
+State_now(for debug): citynow: BEIJING timenow: 4
+Strategy: minicost 
+midcity: empty 
+TimeResult: 83
+MoneyResult: 690
+Total edges: 3
+6->12->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:10:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: ZHENGZHOU ismove: 1 dur: 9
+State_now(for debug): citynow: BEIJING timenow: 4
+Strategy: minicost 
+midcity: empty 
+TimeResult: 83
+MoneyResult: 690
+Total edges: 3
+6->12->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+--------- INPUT INSTRUCTION ---------
+INPUT MESSAGE:
+INPUT TIME IS: 10:00
+ID: 0:
+Destination:KUNMING
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+---------TIME:11:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: ZHENGZHOU ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:12:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: ZHENGZHOU ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:13:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: ZHENGZHOU ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:14:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: ZHENGZHOU ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:15:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: ZHENGZHOU ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:16:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: ZHENGZHOU ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:17:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: ZHENGZHOU dest: ZHENGZHOU ismove: 0 dur: 2
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:18:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: ZHENGZHOU dest: ZHENGZHOU ismove: 0 dur: 2
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:19:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: ZHENGZHOU dest: BEIJING ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:20:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: ZHENGZHOU dest: BEIJING ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:21:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: ZHENGZHOU dest: BEIJING ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:22:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: ZHENGZHOU dest: BEIJING ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:23:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: ZHENGZHOU dest: BEIJING ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:0:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: ZHENGZHOU dest: BEIJING ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:1:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: ZHENGZHOU dest: BEIJING ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:2:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: ZHENGZHOU dest: BEIJING ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:3:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: ZHENGZHOU dest: BEIJING ismove: 1 dur: 9
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:4:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 2
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:5:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 2
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:6:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: KUNMING ismove: 1 dur: 4
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:7:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: KUNMING ismove: 1 dur: 4
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:8:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: KUNMING ismove: 1 dur: 4
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:9:00---------
+ID: 0:
+Destination:KUNMING
+State_n: city: BEIJING dest: KUNMING ismove: 1 dur: 4
+State_now(for debug): citynow: ZHENGZHOU timenow: 17
+Strategy: minitime
+minicost_lmt: 0 
+midcity: empty 
+TimeResult: 17
+MoneyResult: 2460
+Total edges: 2
+39->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+--------- INPUT INSTRUCTION ---------
+INPUT MESSAGE:
+INPUT TIME IS: 9:00
+ID: 0:
+Destination:BEIJING
+Strategy: minicost 
+midcity: empty 
+---------TIME:10:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:11:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:12:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:13:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:14:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:15:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:16:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:17:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:18:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:19:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:20:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:21:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:22:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:23:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:0:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:1:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:2:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:3:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:4:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+---------TIME:5:00---------
+ID: 0:
+Destination:BEIJING
+State_n: city: KUNMING dest: KUNMING ismove: 0 dur: 23
+State_now(for debug): citynow: KUNMING timenow: 10
+Strategy: minicost 
+midcity: empty 
+TimeResult: 92
+MoneyResult: 690
+Total edges: 3
+49->162->#
+
+ID: 1:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 2:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 3:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
+ID: 4:
+Destination:BEIJING
+State_n: city: BEIJING dest: BEIJING ismove: 0 dur: 8192
+State_now(for debug): citynow: BEIJING timenow: 0
+Strategy: minicost 
+midcity: empty 
+TimeResult: MAX_WEIGHT
+MoneyResult: MAX_WEIGHT
+Total edges: 0
+#
+
