@@ -1,0 +1,4 @@
+E -> | E + T | E - T | T | GFE | # |
+T -> | T * F | T / F | F | b | c |
+F -> | ( E ) | a | pGEa |
+G -> | ET | F | # | GaF |

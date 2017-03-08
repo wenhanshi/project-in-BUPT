@@ -1,0 +1,12 @@
+---FIRST_SET---
+A : d  
+C : d  
+B : d  
+E : d  
+D : d  
+---FOLLOW_SET---
+A : c  $  
+C : b  
+B : a  
+E : 
+D : c  $  

@@ -1,0 +1,17 @@
+int
+char
+for
+switch
+string
+case
+return
+enum
+union
+cout
+double
+if
+else
+while
+main
+void
+default

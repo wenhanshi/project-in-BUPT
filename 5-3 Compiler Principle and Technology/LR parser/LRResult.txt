@@ -1,0 +1,172 @@
+
+---Items---
+I0 : T -> .F |S -> .E |E -> .T |T -> .T/F |E -> .E-T |F -> .(E) |E -> .E+T |T -> .T*F |F -> .a |
+I1 : T -> F. |
+I2 : E -> E.-T |S -> E. |E -> E.+T |
+I3 : T -> T.*F |T -> T./F |E -> T. |
+I4 : T -> .F |E -> .T |F -> (.E) |T -> .T/F |E -> .E-T |F -> .(E) |E -> .E+T |T -> .T*F |F -> .a |
+I5 : F -> a. |
+I6 : E -> E.-T |F -> (E.) |E -> E.+T |
+I7 : T -> .F |F -> .(E) |E -> E-.T |T -> .T*F |T -> .T/F |F -> .a |
+I8 : F -> (E). |
+I9 : T -> .F |F -> .(E) |E -> E+.T |T -> .T*F |T -> .T/F |F -> .a |
+I10 : T -> T.*F |E -> E+T. |T -> T./F |
+I11 : T -> T*.F |F -> .(E) |F -> .a |
+I12 : F -> .(E) |T -> T/.F |F -> .a |
+I13 : T -> T/F. |
+I14 : T -> T*F. |
+I15 : T -> T.*F |T -> T./F |E -> E-T. |
+
+---GO_FOR_DFA---
+I9 with a go I5
+I11 with ( go I4
+I4 with ( go I4
+I12 with F go I13
+I6 with + go I9
+I9 with ( go I4
+I15 with * go I11
+I10 with / go I12
+I7 with a go I5
+I11 with F go I14
+I10 with * go I11
+I2 with + go I9
+I11 with a go I5
+I4 with T go I3
+I6 with - go I7
+I15 with / go I12
+I12 with ( go I4
+I4 with a go I5
+I4 with F go I1
+I7 with T go I15
+I6 with ) go I8
+I12 with a go I5
+I7 with F go I1
+I0 with F go I1
+I0 with ( go I4
+I0 with a go I5
+I0 with T go I3
+I9 with T go I10
+I4 with E go I6
+I3 with * go I11
+I2 with - go I7
+I0 with E go I2
+I7 with ( go I4
+I3 with / go I12
+I9 with F go I1
+
+---ACTION TABLE---
+I15 with - :R E->E-T
+I9 with a :S 5
+I4 with ( :S 4
+I5 with $ :R F->a
+I14 with $ :R T->T*F
+I10 with + :R E->E+T
+I13 with / :R T->T/F
+I5 with - :R F->a
+I6 with + :S 9
+I1 with / :R T->F
+I9 with ( :S 4
+I3 with $ :R E->T
+I2 with - :S 7
+I15 with * :S 11
+I10 with / :S 12
+I8 with + :R F->(E)
+I14 with / :R T->T*F
+I1 with + :R T->F
+I7 with a :S 5
+I3 with - :R E->T
+I14 with + :R T->T*F
+I10 with * :S 11
+I1 with * :R T->F
+I5 with * :R F->a
+I1 with ) :R T->F
+I8 with - :R F->(E)
+I15 with + :R E->E-T
+I2 with + :S 9
+I11 with a :S 5
+I15 with / :S 12
+I13 with ) :R T->T/F
+I6 with - :S 7
+I10 with $ :R E->E+T
+I12 with ( :S 4
+I3 with + :R E->T
+I4 with a :S 5
+I14 with * :R T->T*F
+I10 with ) :R E->E+T
+I13 with - :R T->T/F
+I5 with + :R F->a
+I6 with ) :S 8
+I1 with - :R T->F
+I12 with a :S 5
+I10 with - :R E->E+T
+I13 with $ :R T->T/F
+I5 with / :R F->a
+I14 with - :R T->T*F
+I8 with / :R F->(E)
+I0 with ( :S 4
+I14 with ) :R T->T*F
+I13 with * :R T->T/F
+I3 with ) :R E->T
+I0 with a :S 5
+I1 with $ :R T->F
+I8 with $ :R F->(E)
+I8 with * :R F->(E)
+I11 with ( :S 4
+I3 with * :S 11
+I8 with ) :R F->(E)
+I15 with ) :R E->E-T
+I3 with / :S 12
+I2 with $ :ACC
+I7 with ( :S 4
+I13 with + :R T->T/F
+I5 with ) :R F->a
+I15 with $ :R E->E-T
+
+---GOTO_TABLE---
+I11 with F : goto I14
+I4 with F : goto I1
+I7 with T : goto I15
+I0 with T : goto I3
+I9 with T : goto I10
+I12 with F : goto I13
+I4 with E : goto I6
+I7 with F : goto I1
+I0 with F : goto I1
+I0 with E : goto I2
+I4 with T : goto I3
+I9 with F : goto I1
+
+---LR Result---
+@ <-- (a+a)*(a-a)/a$
+@( <-- a+a)*(a-a)/a$
+@(a <-- +a)*(a-a)/a$
+@(F <-- +a)*(a-a)/a$
+@(T <-- +a)*(a-a)/a$
+@(E <-- +a)*(a-a)/a$
+@(E+ <-- a)*(a-a)/a$
+@(E+a <-- )*(a-a)/a$
+@(E+F <-- )*(a-a)/a$
+@(E+T <-- )*(a-a)/a$
+@(E <-- )*(a-a)/a$
+@(E) <-- *(a-a)/a$
+@F <-- *(a-a)/a$
+@T <-- *(a-a)/a$
+@T* <-- (a-a)/a$
+@T*( <-- a-a)/a$
+@T*(a <-- -a)/a$
+@T*(F <-- -a)/a$
+@T*(T <-- -a)/a$
+@T*(E <-- -a)/a$
+@T*(E- <-- a)/a$
+@T*(E-a <-- )/a$
+@T*(E-F <-- )/a$
+@T*(E-T <-- )/a$
+@T*(E <-- )/a$
+@T*(E) <-- /a$
+@T*F <-- /a$
+@T <-- /a$
+@T/ <-- a$
+@T/a <-- $
+@T/F <-- $
+@T <-- $
+@E <-- $

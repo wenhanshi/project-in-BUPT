@@ -1,0 +1,39 @@
+double add(double _a,double _b)
+{
+    return _a + _b;
+}
+
+void myprint_hello_world()
+{
+    %printf("hello,world");
+}
+
+/*
+ * name : laoshi
+ * date : 2016.10.11
+ * task : lexical test
+ * comment : i love p.c.
+ */
+
+int main(void)
+{
+    double sum = 0;
+    int cnt = 0;
+    int nums[100] = {0};
+    char ch = 's';
+    char ch_enter = '\n';
+
+    for(int i = 1; i <= MAX_TEST ;i ++)
+    {
+        add(sum,1.45E-2);
+    }
+    // some test for arith operators
+    if(sum == 100) cnt += 2;
+    else if(su$m > 100) cnt -= 2;
+    else cnt --;
+    cnt = 0;
+    while(cnt < 100)
+        nums[cnt] += 1;
+    myprint_hello_world();
+    return 0;
+}

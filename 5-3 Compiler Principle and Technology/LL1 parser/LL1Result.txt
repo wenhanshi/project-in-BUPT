@@ -1,0 +1,48 @@
+
+---LL1 TABLE---
+('P', '$'):P->#
+('Q', '*'):Q->*FQ
+('F', '('):F->(E)
+('Q', '$'):Q->#
+('Q', '+'):Q->#
+('T', 'a'):T->FQ
+('P', '+'):P->+TP
+('Q', ')'):Q->#
+('P', ')'):P->#
+('T', '('):T->FQ
+('E', '('):E->TP
+('P', '-'):P->-TP
+('F', 'a'):F->a
+('Q', '/'):Q->/FQ
+('E', 'a'):E->TP
+('Q', '-'):Q->#
+
+---LL1 Process---
+E with E -> TP
+TP with T -> FQ
+FQP with F -> (E)
+(E)QP with E -> TP
+(TP)QP with T -> FQ
+(FQP)QP with F -> a
+(aQP)QP with Q -> #
+(aP)QP with P -> +TP
+(a+TP)QP with T -> FQ
+(a+FQP)QP with F -> a
+(a+aQP)QP with Q -> #
+(a+aP)QP with P -> #
+(a+a)QP with Q -> *FQ
+(a+a)*FQP with F -> (E)
+(a+a)*(E)QP with E -> TP
+(a+a)*(TP)QP with T -> FQ
+(a+a)*(FQP)QP with F -> a
+(a+a)*(aQP)QP with Q -> #
+(a+a)*(aP)QP with P -> -TP
+(a+a)*(a-TP)QP with T -> FQ
+(a+a)*(a-FQP)QP with F -> a
+(a+a)*(a-aQP)QP with Q -> #
+(a+a)*(a-aP)QP with P -> #
+(a+a)*(a-a)QP with Q -> /FQ
+(a+a)*(a-a)/FQP with F -> a
+(a+a)*(a-a)/aQP with Q -> #
+(a+a)*(a-a)/aP with P -> #
+(a+a)*(a-a)/a

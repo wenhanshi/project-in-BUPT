@@ -1,0 +1,10 @@
+---FIRST_SET---
+E : a  p  #  b  (  c  
+T : a  c  b  (  p  
+G : a  p  #  b  (  c  
+F : a  (  p  
+---FOLLOW_SET---
+E : a  c  b  $  )  (  +  -  p  
+T : a  c  b  $  )  (  +  *  -  /  p  
+G : a  c  b  $  )  (  +  *  -  /  p  
+F : a  c  b  $  )  (  +  *  -  /  p  
