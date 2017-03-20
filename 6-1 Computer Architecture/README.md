@@ -136,7 +136,7 @@ Use `sim-safe` to execute `.out`. You will finally see `** starting functional s
 And, of courese, `Hello World!`.
 
 ### Referance
-[Install Simplescalar](1、	http://www.cnblogs.com/blue163/p/4928394.html)  
-[Reinstall GCC-4.9](2、	http://www.cnblogs.com/darkknightzh/p/6194031.html)
+[Install Simplescalar](http://www.cnblogs.com/blue163/p/4928394.html)  
+[Reinstall GCC-4.9](http://www.cnblogs.com/darkknightzh/p/6194031.html)
 
 _Transfered & Supplemented by Wenhan Shi, 2017.3_
