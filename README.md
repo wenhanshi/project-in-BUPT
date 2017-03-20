@@ -3,7 +3,7 @@ A collection of code, projects and some essays in BUPT.
 
 *CONTINUAL UPDATES*
 
-** The 6th semester is updating, see Computer Architecture -- [How to install simplescalar on Ubuntu16](https://github.com/wenhanshi/project-in-BUPT/tree/master/6-1%20Computer%20Architecture) **
+__The 6th semester is updating, see Computer Architecture -- [How to install simplescalar on Ubuntu16](https://github.com/wenhanshi/project-in-BUPT/tree/master/6-1%20Computer%20Architecture)__
 
 ---
 
