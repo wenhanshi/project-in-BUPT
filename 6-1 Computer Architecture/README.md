@@ -50,7 +50,7 @@ Find `ldlex.l` in `$IDIR/simpleutils-990811/ld/`
 , change __yy_current_buffer__ to __YY_CURRENT_BUFFER__  
 ```
 cd ..
-./confing --host=$HOST --target=$TARGET --with-gnu-as --with-gnu-ld --prefix=$IDIR
+./configure --host=$HOST --target=$TARGET --with-gnu-as --with-gnu-ld --prefix=$IDIR
 make
 make install
 ```
@@ -127,7 +127,7 @@ make LANGUAGES="c c++" CFLAGS="-O" CC="gcc" install
 to install compiler.
 
 ### Some tests
-Under the `IDIR` directory, use `./sslittile-na-sstrix-gcc <test_file>` to compile.
+Under the `IDIR/bin` directory, use `./sslittile-na-sstrix-gcc <test_file>` to compile.
 
 You will find `.out` file in the same dir (default).
 
