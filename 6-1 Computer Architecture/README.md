@@ -19,13 +19,13 @@ These files can be easily found in the Internet.
 
 Define environmen variables:
 
-```
+```bash
 export IDIR=~/YOUR_PATH/simplescalar/
 export HOST=i686-pc-linux
 export TARGET=sslittle-na-sstrix
 ```
 Intall essencial modules:
-```
+```bash
 sudo apt-get install build-essential
 sudo apt-get install flex
 sudo apt-get install bison
@@ -33,7 +33,7 @@ sudo apt-get gcc-multilib
 sudo apt-get g++multilib
 ```
 ### Install Simpletools
-```
+```bash
 cd $IDIR
 tar xvfz simpletools-2v0.tgz
 rm -rf gcc-2.6.3
@@ -41,14 +41,14 @@ rm -rf gcc-2.6.3
 Use `rm` to delete gcc, we need gcc-2.7.2.3 instead.
 
 ### Install Simpleutils
-```
+```bash
 cd $IDIR
 tar xvfz simpleutils-990811.tar.gz
 cd simpleutils-990811
 ```
 Find `ldlex.l` in `$IDIR/simpleutils-990811/ld/`
 , change __yy_current_buffer__ to __YY_CURRENT_BUFFER__  
-```
+```bash
 cd ..
 ./configure --host=$HOST --target=$TARGET --with-gnu-as --with-gnu-ld --prefix=$IDIR
 make
@@ -56,7 +56,7 @@ make install
 ```
 
 ### Install Simplesim
-```
+```bash
 cd $IDIR
 tar xvfz simplesim-3v0e.tgz
 cd simplesim-3.0
@@ -67,7 +67,7 @@ If successful, message `my work is done here ... ` will show there.
 Find some tests in `$IDIR/simplesim-3.0/tests` with (such as) `./sim-safe tests/bin.little/test-llong` to start testing `test-llong`.  
 
 ### Install GCC Cross-compiling Environment
-```
+```bash
 cd $IDIR
 tar xvfz gcc-2.7.2.3.ss.tar.gz
 cd gcc-2.7.2.3
@@ -87,7 +87,7 @@ Secondly,
 to __\*((void **)\_\_o->next_free++)__ in line 341
 
 - Add patches with `cp`:
-```
+```bash
 cp ./patched/sys/cdefs.h ../sslittle-na-sstrix/include/sys/cdefs.h
 cp ../sslittle-na-sstrix/lib/libc.a ../lib/
 cp ../sslittle-na-sstrix/lib/crt0.o ../lib/
@@ -101,7 +101,7 @@ Thirdly, start to `make`, use
 - `sendmsg.c`: Find `objc/sendmsg.c`, add `#define STRUCT_VALUE 0` to line 35
 
 - 'buffer overflow': Copy `ar` and `ranlib` (patches in `needed`) to `$IDIR/sslittle-na-sstrix/bin` and change their permission to execute with  
-```
+```bash
 cd $IDIR/sslittle-na-sstrix/bin/
 chmod +x ar ranlib
 ```
@@ -109,7 +109,7 @@ chmod +x ar ranlib
 - `cxxmain.c`: Find it, and delete line 2978 and 2979
 
 - `cc1plus.c`: This may due to the version of GCC. You may try degrading GCC to __v4.9__ with  
-```
+```bash
 sudo apt-get install gcc-4.9
 sudo apt-get install g++-4.9
 sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.9 20
@@ -119,7 +119,7 @@ sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-4.9 20
 _Note : during the attempts, you may use `make clean` after reinstall GCC. Maybe some errors will show again after that, just redo some steps above to the specific errors._
 
 __Finally__ :), use
-```
+```bash
 make enquire
 ../simplesim-3.0/sim-safe ./enquire -f >！ float.h-cross
 make LANGUAGES="c c++" CFLAGS="-O" CC="gcc" install
