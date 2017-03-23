@@ -7,18 +7,18 @@ __The 6th semester is updating, see Computer Architecture -- [How to install sim
 
 ---
 
-# 1st Semester
+## 1st Semester
 ### 1-1 Introduction to Computing and How to Program
   - homework
   - practice in C  
 
 ---
-# 2ed Semester
+## 2ed Semester
 ### 2-1 Programming Practice-Swift Bank
   - SWIFT BANK PRO V3.0.6.15  
 
 ---
-# 3rd Semester
+## 3rd Semester
 ### 3-1 Object-Oriented Programming in C++ (1)
   - homework
   - practice in C++  
@@ -30,7 +30,7 @@ __The 6th semester is updating, see Computer Architecture -- [How to install sim
   - A simple calculator  
 
 ---
-# 4th Semester
+## 4th Semester
 ### 4-1 Programming for Data Structures-Travel System
   - TravelSystem V2.6.6.06  
 
@@ -48,7 +48,7 @@ __The 6th semester is updating, see Computer Architecture -- [How to install sim
   - Bird Classifier  
 
 ---
-# 5th Semester
+## 5th Semester
 ### 5-1 Object-Oriented Programming Design and Practice C++(2)
   - ForumSystem
   - ForumSystem Plus
@@ -81,4 +81,8 @@ __The 6th semester is updating, see Computer Architecture -- [How to install sim
 ### 5-8 MCM&ICM Contest in 2017
   - Optimizing the Passenger Throughput and Average Wait Time at an Airport Security Checkpoint
 
+---  
+## 6th Semester
+### 6-1 Computer Architecture
+- Simplescalar on Ubuntu
 ---
