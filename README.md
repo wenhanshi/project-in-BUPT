@@ -85,4 +85,9 @@ __The 6th semester is updating, see Computer Architecture -- [How to install sim
 ## 6th Semester
 ### 6-1 Computer Architecture
 - Simplescalar on Ubuntu
+- Apply benchmark to sim-outorder
+
+### 6-2 Database System
+- Course work reports on MySQL and Python  
+
 ---

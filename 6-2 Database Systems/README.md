@@ -25,6 +25,8 @@ insert into student values
 ```sql
 alter table student add column dog varchar(1);
 ```
+---
+
 ### Query Processing
 Including nest-subquery and multi-table query.
 
@@ -39,10 +41,12 @@ from sel natural join course
 where course_name = '数据库原理' );
 
 ```
+---
+
 ### MySQL Interface with Python
 Including manipulate MySQL with Python and connections.
 Using MySQLdb package on Python3.
-e.g.
+e.g.  
 __Build connection between MySQL and Python.__
 ```Python
 # 建立与数据库的连接
@@ -65,14 +69,18 @@ __Commit transactions__
 # 提交事务
 conn.commit()
 ```
+---
+
 ### Query Analyzing with `explain`
 Good questions:
 1. Which is more effective to find out the maximum of grade? `max(grade)` or `all`?
 2. Which is more effective to query? nest-subquery or natural join?
 3. Which is more effective when doing `insert`? clustered index, non-clustered index or without index?
+---
 
 ### Integrity & Security, Transaction, Back-up & Recovery
-Exploring integrity by:
+Exploring integrity by:  
+
 __foreign key__
 Create foreign key with  
 ```sql
@@ -97,3 +105,4 @@ create trigger add_date
   set b_date = DATA_ADD(b_date, INTERVAL 1 DAY);
   end
 ```
+---
