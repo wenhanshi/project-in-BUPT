@@ -1,6 +1,6 @@
 This is an attempt to MCM/ICM Contest in 2017, problem D.
 
-It is really excited and  exaustied.
+It is really excited and  exhausted.
 
 I am mainly responsible for coding, plotting, modeling and a part of writing essay.
 
