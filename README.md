@@ -1,7 +1,13 @@
 # project-in-BUPT
-A collection of code, projects and some essays in BUPT.
+A collection of code, projects and some essays of works @BUPT.
 
-*CONTINUAL UPDATES*
+> Please let me know if your have any ideas, suggestions or opinions for project-in-BUPT. The source code or documents included below are a collection of my work and my friends'. It would be a pleasure to update these work for BUPT students and anyone who may need them. We hope the projects can help you do your own project and fall in love with Computer Science.
+
+> Please do NOT copy any of content to any of your homework or course work.
+
+> -Wenhan
+
+
 
 __The 6th semester is updating, see Computer Architecture -- [How to install simplescalar on Ubuntu16](https://github.com/wenhanshi/project-in-BUPT/tree/master/6-1%20Computer%20Architecture)__
 
