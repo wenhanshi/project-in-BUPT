@@ -90,4 +90,8 @@ __The 6th semester is updating, see Computer Architecture -- [How to install sim
 ### 6-2 Database System
 - Course work reports on MySQL and Python  
 
+### 6-3 Curriculum Practice of Computer Networks
+- DNS relay server
+
+
 ---

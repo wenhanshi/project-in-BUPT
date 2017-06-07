@@ -1,0 +1,71 @@
+#include<stdio.h>
+int main(void)
+{
+	int count1;
+	long number;
+	char q;
+	scanf("%ld",&number);
+	while(number>=999)
+	{
+		number/=1000;
+	}
+	printf("%ld",number);
+	if(number>=100)
+	{
+		count1=0;
+		q=getchar();
+		while(q!='\n')
+		{
+			count1++;
+			if(count1==3)
+			{
+				printf("%c,",q);
+				count1=0;
+			}
+			else
+			{
+				printf("%c",q);
+			}
+			q=getchar();
+		}
+	}
+	else if(number>=10)
+	{
+		count1=2;
+		q=getchar();
+		while(q!='\n')
+		{
+			count1++;
+			if(count1==3)
+			{
+				printf("%c,",q);
+				count1=0;
+			}
+			else
+			{
+				printf("%c",q);
+			}
+			q=getchar();
+		}
+	}
+	else
+	{
+		count1=1;
+		q=getchar();
+		while(q!='\n')
+		{
+			count1++;
+			if(count1==3)
+			{
+				printf("%c,",q);
+				count1=0;
+			}
+			else
+			{
+				printf("%c",q);
+			}
+			q=getchar();
+		}
+	}
+	return 0;
+}
