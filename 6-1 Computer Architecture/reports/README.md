@@ -4,8 +4,8 @@ During the course of computer architecture, we finish several reports incluing t
 We are grouped as 304-D.
 - [Danya Xu](mailto:17888821521@163.com)
 - [Jiawei Cui](mailto:839942648@qq.com)
-- Jiandu Wang
-- Yuchen Lin
+- [Jiandu Wang](mailto:wangjiandu1995@163.com)
+- [Yuchen Lin](670601846@qq.com)
 - [Ying Yang](https://github.com/Regulusyy)
 - Shaoming Hao
 

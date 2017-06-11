@@ -86,13 +86,16 @@ __The 6th semester is updating, see Computer Architecture -- [How to install sim
 ## 6th Semester
 ### 6-1 Computer Architecture
 - Simplescalar on Ubuntu
-- Apply benchmark to sim-outorder
+- reports
 
 ### 6-2 Database System
 - Course work reports on MySQL and Python  
 
 ### 6-3 Curriculum Practice of Computer Networks
 - DNS relay server
+
+### 6-4 Software Engineering
+- Course Poject : Distributed Air Conditioning System
 
 
 ---
