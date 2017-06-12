@@ -95,7 +95,7 @@ __The 6th semester is updating, see Computer Architecture -- [How to install sim
 - DNS relay server
 
 ### 6-4 Software Engineering
-- Course Poject : Distributed Air Conditioning System
+- Course Project : Distributed Air Conditioning System
 
 
 ---
