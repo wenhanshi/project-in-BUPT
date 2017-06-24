@@ -1,0 +1,1 @@
+[LOGIN]:20:59:08 000001 shiwenhan abc123 ADMIN
