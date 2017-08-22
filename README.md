@@ -50,8 +50,8 @@ __The 6th semester is updating, see Computer Architecture -- [How to install sim
 ---
 ## 5th Semester
 ### 5-1 Object-Oriented Programming Design and Practice C++(2)
-  - [ForumSystem](https://github.com/wenhanshi/project-in-BUPT/tree/master/5-1%20Object-Oriented%20Programming%20Design%20and%20Practice%20C%2B%2B(2)/ForumSystem)
-  - [ForumSystem Plus](https://github.com/wenhanshi/project-in-BUPT/tree/master/5-1%20Object-Oriented%20Programming%20Design%20and%20Practice%20C%2B%2B(2)/ForumSystem)
+  - [ForumSystem](https://github.com/wenhanshi/project-in-BUPT/tree/master/5-1%20Object-Oriented%20Programming%20Design%20and%20Practice%20C%2B%2B(2))
+  - [ForumSystem Plus](https://github.com/wenhanshi/project-in-BUPT/tree/master/5-1%20Object-Oriented%20Programming%20Design%20and%20Practice%20C%2B%2B(2))
 
 ### 5-2 Operating System
   - [Reports](https://github.com/wenhanshi/project-in-BUPT/tree/master/5-2%20Operating%20System/report)
