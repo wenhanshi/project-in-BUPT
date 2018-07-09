@@ -6,6 +6,8 @@ Please do __NOT__ copy __ANY__ of content to any of your homework or course work
 
 __The 6th semester is updating, see Computer Architecture -- [How to install simplescalar on Ubuntu16](https://github.com/wenhanshi/project-in-BUPT/tree/master/6-1%20Computer%20Architecture)__
 
+Contact: [Wenhan Shi](mailto:wenhanshi2018@gmail.com)
+
 ---
 
 ## 1st Semester
@@ -14,7 +16,7 @@ __The 6th semester is updating, see Computer Architecture -- [How to install sim
   - [Practice in C](https://github.com/wenhanshi/project-in-BUPT/tree/master/1-1%20Introduction%20to%20Computing%20and%20How%20to%20Program/practice)  
 
 ---
-## 2ed Semester
+## 2nd Semester
 ### 2-1 Programming Practice-Swift Bank
   - [SWIFT BANK PRO V3.0.6.15](https://github.com/wenhanshi/project-in-BUPT/tree/master/2-1%20Programming%20Practice-Swift%20Bank)  
 
