@@ -1,5 +1,5 @@
 # project-in-BUPT
-A collection of code, projects，reports and essays @BUPT.
+A collection of code, projects, reports and essays @BUPT.
 
 > Please let me know if your have any ideas, suggestions or opinions for project-in-BUPT. The source code or documents included below are a collection of my work and my friends'. It would be a pleasure to update these work for BUPT students and anyone who may need them. We hope the projects can help you do your own project and fall in love with Computer Science.  
 Please do __NOT__ copy __ANY__ of content to any of your homework or course work.  
